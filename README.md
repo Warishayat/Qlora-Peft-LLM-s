@@ -1,4 +1,5 @@
-# Qlora-Peft-LLM
+# Qlora-Peft-LLMs-Prompt-Generation
+
 
 This repository contains implementations of prompt generation using the Qlora method and the PEFT (Parameter-Efficient Fine-Tuning) approach. The project leverages the TinyLlama model and utilizes the `BitsAndBytesConfig` for loading the model in 8-bit configuration, ensuring efficient computation. It includes notebooks for both Kaggle and Google Colab, showcasing model performance and prompt generation capabilities.
 
@@ -37,7 +38,7 @@ The notebooks in this repository demonstrate how to generate prompts based on us
 
 ## Model Performance
 
-Performance metrics of the model can be found within the notebooks, with visualizations provided through TensorBoard. These metrics showcase the effectiveness of the prompt generation and fine-tuning processes.
+Performance metrics of the model can be found within the [Performance Directory](https://github.com/Warishayat/Qlora-Peft-LLM-s/tree/main/Performance), with visualizations provided through TensorBoard. These metrics showcase the effectiveness of the prompt generation and fine-tuning processes.
 
 ## Contributing
 
