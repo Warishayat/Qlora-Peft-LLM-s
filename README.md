@@ -32,8 +32,8 @@ The notebooks in this repository demonstrate how to generate prompts based on us
 
 ### Notebooks
 
-- **Kaggle Notebook**: [Open Kaggle Notebook](https://www.kaggle.com/notebooks) 
-- **Google Colab Notebook**: [Open Google Colab Notebook](https://colab.research.google.com)
+- **Kaggle Notebook**: [Open Kaggle Notebook](https://github.com/Warishayat/Qlora-Peft-LLM-s/blob/main/llms-peft-lora.ipynb) 
+- **Google Colab Notebook**: [Open Google Colab Notebook](https://github.com/Warishayat/Qlora-Peft-LLM-s/blob/main/LLMs_Peft.ipynb)
 
 ## Model Performance
 
