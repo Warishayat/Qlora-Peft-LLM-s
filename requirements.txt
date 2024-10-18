@@ -1,0 +1,5 @@
+torch==2.4.1+cu121
+transformers==4.44.2
+peft==0.13.2
+datasets==3.0.1
+tensorboard==2.17.0
